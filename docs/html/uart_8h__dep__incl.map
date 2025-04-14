@@ -1,0 +1,6 @@
+<map id="/home/pacheco/Documents/INESC&#45;TEC/internship/git&#45;repo/esp32&#45;tiny/include/uart.h" name="/home/pacheco/Documents/INESC&#45;TEC/internship/git&#45;repo/esp32&#45;tiny/include/uart.h">
+<area shape="rect" id="node1" title="Prototypes and definitions of the functions to use the UART in the ESP32." alt="" coords="134,5,357,61"/>
+<area shape="rect" id="node2" href="$errorc_8h.html" title="Similar to errno, it has multiple possible errors that can happend, and it&#39;s possible to print the er..." alt="" coords="5,109,240,165"/>
+<area shape="rect" id="node4" href="$uart_8cpp.html" title="Functions for configuring and using the UART interfaces on the ESP32&#45;WROOM&#45;32D." alt="" coords="265,109,474,165"/>
+<area shape="rect" id="node3" href="$errorc_8cpp.html" title="Similar to errno, it has multiple possible errors that can happend, and it&#39;s possible to print the er..." alt="" coords="12,213,233,269"/>
+</map>

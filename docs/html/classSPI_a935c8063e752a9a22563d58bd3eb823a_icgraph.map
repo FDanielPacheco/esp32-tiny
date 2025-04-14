@@ -1,0 +1,4 @@
+<map id="SPI::enable" name="SPI::enable">
+<area shape="rect" id="node1" title="This functions turns the clock to the peripheral according to the state." alt="" coords="124,5,219,32"/>
+<area shape="rect" id="node2" href="$classSPI.html#a6863adcc0a7daa40cc513cdb18716ee7" title="Initialize the peripheral." alt="" coords="5,5,76,32"/>
+</map>

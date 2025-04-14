@@ -1,0 +1,22 @@
+{
+  "name": "esp32-tiny",
+  "version": "1.0.0",
+  "description": "A lightweight and sequencial software aproach to the ESP32-WROOM32 integrated circuit",
+  "keywords": "esp32, bare-metal", "lightweight", "research",
+  "authors": [
+    {
+      "name": "Fábio D. Pacheco",
+      "email": "fabio.d.pacheco@inesctec.pt",
+      "url": "https://github.com/FDanielPacheco"
+    }
+  ],
+  "license": "GPLv3",
+  "frameworks": "esp-idf",
+  "platforms": "espressif32",
+  "dependencies": [
+  ],
+  "build": {
+    "srcDir": "src",
+    "includeDir": "include"
+  }
+}

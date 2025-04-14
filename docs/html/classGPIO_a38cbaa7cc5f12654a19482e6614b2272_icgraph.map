@@ -1,0 +1,4 @@
+<map id="GPIO::mode" name="GPIO::mode">
+<area shape="rect" id="node1" title="Selects the desired functional mode of the pin, can be either INPUT or OUTPUT, for the number of the ..." alt="" coords="139,5,237,32"/>
+<area shape="rect" id="node2" href="$classUART.html#a898dc583e461135416d7552cc5405bd1" title="Configures and initializes the UART interface with the specified baud rate and settings defined in th..." alt="" coords="5,5,91,32"/>
+</map>

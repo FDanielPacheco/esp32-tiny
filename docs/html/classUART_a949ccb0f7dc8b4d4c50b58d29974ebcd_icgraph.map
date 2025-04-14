@@ -1,0 +1,4 @@
+<map id="UART::available" name="UART::available">
+<area shape="rect" id="node1" title="Checks the UART status register to determine how many bytes of data are available in the RX FIFO." alt="" coords="147,5,271,32"/>
+<area shape="rect" id="node2" href="$classUART.html#a4091d6a1425642e95dcaea5469076fe3" title="Reads data from the UART FIFO register and writes it to the provided memory buffer...." alt="" coords="5,5,99,32"/>
+</map>
