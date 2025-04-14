@@ -1,4 +1,0 @@
-<map id="infiniteLoopBreaker" name="infiniteLoopBreaker">
-<area shape="rect" id="node1" title="Waits for 100 us and then decrements the counter. Counter must be configured before using this functi..." alt="" coords="5,5,153,32"/>
-<area shape="rect" id="node2" href="$classTIMER.html#a962bf3cc9a3450ad94d2172d05d01354" title="This delay function halts the progress of the program, it receives as argument the time to wait." alt="" coords="201,5,308,32"/>
-</map>
