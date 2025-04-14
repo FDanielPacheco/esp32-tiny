@@ -3,3 +3,35 @@ esp32-tiny is a bare-metal library developed for the ESP32 WROOM-32 module. It p
 This library was created as a research and educational resource for exploring the intricacies of complex microcontrollers.
 Currently, it utilizes the ESP-IDF toolchain, which introduces an inherent watchdog timer. Consequently, a specific ESP-IDF function is required for its deactivation.
 Please be aware that this project, developed and maintained by a single individual, may contain bugs.
+
+---
+
+## Table of Contents
+
+- [Building](#building)
+- [Installation](#installation)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## Compiling
+
+Required to have platformio (https://platformio.org/), and active its virtual environment.
+
+```
+cd esp-tiny
+make compile
+```
+
+---
+
+## License
+
+This project is licensed under the [GNU_V3 License](./../../LICENSE).
+
+---
+
+## Contact
+
+For any questions or issues, please reach out via email at pacheco.castro.fabio@gmail.com or fabio.d.pacheco@inesctec.pt.
